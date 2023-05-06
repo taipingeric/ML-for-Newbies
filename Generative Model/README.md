@@ -2,6 +2,11 @@
 
 ### Resources
 
+1. Demo
+
+    - [Stable Diffusion Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+
+    - [DreamStudio](https://dreamstudio.ai/)
 1. GitHub
 
     - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
