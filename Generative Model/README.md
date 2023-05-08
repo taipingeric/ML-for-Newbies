@@ -7,6 +7,9 @@
     - [Stable Diffusion Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
     - [DreamStudio](https://dreamstudio.ai/)
+
+    - [Bing ](https://www.bing.com/create)
+    
 1. GitHub
 
     - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
@@ -16,6 +19,8 @@
     - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
 
     - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+    - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab)
 
 2. Platform
 
