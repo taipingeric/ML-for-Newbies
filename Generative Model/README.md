@@ -4,12 +4,18 @@
 
 1. Demo
 
-    - [Stable Diffusion Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+    - [Stable Diffusion Demo](https://huggingface.co/spaces/stabilityai/stable-diffusion):free
+
+    - [Dream.ai](https://dream.ai/create)
+        : free
+
+    - [Bing ](https://www.bing.com/create): free
 
     - [DreamStudio](https://dreamstudio.ai/)
 
-    - [Bing ](https://www.bing.com/create)
+
     
+
 1. GitHub
 
     - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
